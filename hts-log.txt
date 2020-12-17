@@ -1,0 +1,55 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 17 Dec 2020 13:20:16 at https://www.kiwiinvest.co.nz/home +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.kiwiinvest.co.nz/home -O1 "C:\My Web Sites\kiwiInvest" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:20:57	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.kiwiinvest.co.nz/home)
+13:21:01	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/generated_global_groups/38257060736.html (from https://www.kiwiinvest.co.nz/home)
+13:25:05	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/generated_global_groups/5481431955.html (from https://www.kiwiinvest.co.nz/home)
+13:25:05	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/generated_global_groups/5477551338.html (from https://www.kiwiinvest.co.nz/home)
+13:25:09	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/POST (from https://www.kiwiinvest.co.nz/home)
+13:25:09	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/generated_global_groups/20770673989.html (from https://www.kiwiinvest.co.nz/our-difference)
+13:25:09	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/our-difference/generated_global_groups/38257060736.html (from https://www.kiwiinvest.co.nz/our-difference/responsible-investment-policy)
+13:25:09	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/our-difference/generated_global_groups/5471566366.html (from https://www.kiwiinvest.co.nz/our-difference/responsible-investment-policy)
+13:25:27	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/our-difference/generated_global_groups/20759371018.html (from https://www.kiwiinvest.co.nz/our-difference/responsible-investment-policy)
+13:25:27	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/our-difference/generated_global_groups/5477551338.html (from https://www.kiwiinvest.co.nz/our-difference/responsible-investment-policy)
+13:25:27	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/our-difference/POST (from https://www.kiwiinvest.co.nz/our-difference/responsible-investment-policy)
+13:25:27	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/generated_global_groups/5471566366.html (from https://www.kiwiinvest.co.nz/our-approach)
+13:25:56	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/generated_global_groups/20759370933.html (from https://www.kiwiinvest.co.nz/our-approach)
+13:26:32	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/generated_global_groups/20759370966.html (from https://www.kiwiinvest.co.nz/our-people)
+13:31:53	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/our-difference/responsible-investment-policy/generated_global_groups/9244189525.html (from https://www.kiwiinvest.co.nz/our-difference/responsible-investment-policy/proxy-voting)
+13:31:53	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/our-difference/responsible-investment-policy/generated_global_groups/5477551338.html (from https://www.kiwiinvest.co.nz/our-difference/responsible-investment-policy/proxy-voting)
+13:31:53	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/our-difference/responsible-investment-policy/POST (from https://www.kiwiinvest.co.nz/our-difference/responsible-investment-policy/proxy-voting)
+13:31:53	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/responsible-investment-policy/generated_global_groups/9244189525.html (from https://www.kiwiinvest.co.nz/responsible-investment-policy/exclusions)
+13:31:53	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/responsible-investment-policy/generated_global_groups/5477551338.html (from https://www.kiwiinvest.co.nz/responsible-investment-policy/exclusions)
+13:31:54	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/responsible-investment-policy/POST (from https://www.kiwiinvest.co.nz/responsible-investment-policy/exclusions)
+13:31:55	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/hs-fs/hub/703880/hub_generated/template_assets/6817560157/1569676152586/Marketplace/March_2019_Campaign/R_Word_-_blog/Coded_Files/fonts/slick.eot (from https://www.kiwiinvest.co.nz/hs-fs/hub/703880/hub_generated/template_assets/6817560157/1569676152586/Marketplace/March_2019_Campaign/R_Word_-_blog/Coded_Files/slick-theme.min.css)
+13:31:55	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/hs-fs/hub/703880/hub_generated/template_assets/6817560157/1569676152586/Marketplace/March_2019_Campaign/R_Word_-_blog/Coded_Files/fonts/slick.eot? (from https://www.kiwiinvest.co.nz/hs-fs/hub/703880/hub_generated/template_assets/6817560157/1569676152586/Marketplace/March_2019_Campaign/R_Word_-_blog/Coded_Files/slick-theme.min.css)
+13:31:55	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/hs-fs/hub/703880/hub_generated/template_assets/6817560157/1569676152586/Marketplace/March_2019_Campaign/R_Word_-_blog/Coded_Files/fonts/slick.woff (from https://www.kiwiinvest.co.nz/hs-fs/hub/703880/hub_generated/template_assets/6817560157/1569676152586/Marketplace/March_2019_Campaign/R_Word_-_blog/Coded_Files/slick-theme.min.css)
+13:31:55	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/hs-fs/hub/703880/hub_generated/template_assets/6817560157/1569676152586/Marketplace/March_2019_Campaign/R_Word_-_blog/Coded_Files/fonts/slick.ttf (from https://www.kiwiinvest.co.nz/hs-fs/hub/703880/hub_generated/template_assets/6817560157/1569676152586/Marketplace/March_2019_Campaign/R_Word_-_blog/Coded_Files/slick-theme.min.css)
+13:31:55	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/hs-fs/hub/703880/hub_generated/template_assets/6817560157/1569676152586/Marketplace/March_2019_Campaign/R_Word_-_blog/Coded_Files/fonts/slick.svg (from https://www.kiwiinvest.co.nz/hs-fs/hub/703880/hub_generated/template_assets/6817560157/1569676152586/Marketplace/March_2019_Campaign/R_Word_-_blog/Coded_Files/slick-theme.min.css)
+13:31:55	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/investment-insights/page/generated_global_groups/38257060736.html (from https://www.kiwiinvest.co.nz/investment-insights/page/2)
+13:32:45	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/investment-insights/page/generated_global_groups/5481431955.html (from https://www.kiwiinvest.co.nz/investment-insights/page/2)
+13:32:45	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/investment-insights/page/generated_global_groups/5477551338.html (from https://www.kiwiinvest.co.nz/investment-insights/page/2)
+13:32:45	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/investment-insights/page/POST (from https://www.kiwiinvest.co.nz/investment-insights/page/2)
+13:32:50	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/investment-insights/generated_global_groups/38257060736.html (from https://www.kiwiinvest.co.nz/investment-insights/pandemic-baby-boom-a-bust)
+13:32:50	Warning: 	Moved Permanently for https://www.kiwiinvest.co.nz/
+13:32:50	Warning: 	File has moved from https://www.kiwiinvest.co.nz/ to https://www.kiwiinvest.co.nz/home
+13:33:00	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/investment-insights/generated_global_groups/5481431955.html (from https://www.kiwiinvest.co.nz/investment-insights/pandemic-baby-boom-a-bust)
+13:33:00	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/investment-insights/generated_global_groups/5477551338.html (from https://www.kiwiinvest.co.nz/investment-insights/pandemic-baby-boom-a-bust)
+13:33:00	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/investment-insights/POST (from https://www.kiwiinvest.co.nz/investment-insights/pandemic-baby-boom-a-bust)
+13:33:01	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/generated_global_groups/9244189525.html (from https://www.kiwiinvest.co.nz/2020-seminar-updates)
+13:33:12	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/investment-insights/a-locals-global-view-us-/generated_global_groups/38257060736.html (from https://www.kiwiinvest.co.nz/investment-insights/a-locals-global-view-us-/-uk-market-update)
+13:33:12	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/investment-insights/a-locals-global-view-us-/generated_global_groups/5481431955.html (from https://www.kiwiinvest.co.nz/investment-insights/a-locals-global-view-us-/-uk-market-update)
+13:33:12	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/investment-insights/a-locals-global-view-us-/generated_global_groups/5477551338.html (from https://www.kiwiinvest.co.nz/investment-insights/a-locals-global-view-us-/-uk-market-update)
+13:33:12	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/investment-insights/a-locals-global-view-us-/POST (from https://www.kiwiinvest.co.nz/investment-insights/a-locals-global-view-us-/-uk-market-update)
+13:33:39	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/investment-insights/author/generated_global_groups/38257060736.html (from https://www.kiwiinvest.co.nz/investment-insights/author/nathan-field)
+13:33:39	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/investment-insights/author/generated_global_groups/5481431955.html (from https://www.kiwiinvest.co.nz/investment-insights/author/nathan-field)
+13:33:39	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/investment-insights/author/generated_global_groups/5477551338.html (from https://www.kiwiinvest.co.nz/investment-insights/author/nathan-field)
+13:33:39	Error: 	"Not Found" (404) at link https://www.kiwiinvest.co.nz/investment-insights/author/POST (from https://www.kiwiinvest.co.nz/investment-insights/author/nathan-field)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 23 seconds : 590 links scanned, 546 files written (29056800 bytes overall) [23480465 bytes received at 29240 bytes/sec], 9636415 bytes transferred using HTTP compression in 266 files, ratio 22%, 15.3 requests per connection
+(42 errors, 2 warnings, 0 messages)

@@ -1,0 +1,16 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.hubspot.net	TRUE	/	FALSE	1999999999	__cfduid	db38fe4cff3b00e47139a8ca4364946251608164425
+cdn2.hubspot.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+.hubspot.com	TRUE	/	FALSE	1999999999	__cfduid	d30ba571ba9a1c5ff6ad6f6ab19cc9f251608164444
+no-cache.hubspot.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.hsappstatic.net	TRUE	/	FALSE	1999999999	__cfduid	d47e3eee99f2612112b9b6a9685d7b1161608164460
+static.hsappstatic.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+.hsforms.net	TRUE	/	FALSE	1999999999	__cfduid	db1dfe3a1203eaf01b6bdf1e1b65ef51b1608164695
+js.hsforms.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+.design-assets.hubspot.com	TRUE	/	FALSE	1999999999	__cfruid	4d091aa841e9246cc30a07aa45001e4696925215-1608165115
+design-assets.hubspot.com	TRUE	/	FALSE	1999999999	SameSite	None
+.www.kiwiinvest.co.nz	TRUE	/	FALSE	1999999999	__cfduid	d27bb4509bb17139320927506ea6fe0f11608165177
+.www.kiwiinvest.co.nz	TRUE	/	FALSE	1999999999	__cfruid	d4e9d93bcd916db92a057a209a04d4b91cbb0830-1608165179
+www.kiwiinvest.co.nz	TRUE	/	FALSE	1999999999	SameSite	None
+

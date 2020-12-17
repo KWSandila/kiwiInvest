@@ -1,0 +1,1 @@
+.callout-flexbox{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;border:4px solid #f2f2f2;margin:40px 0;padding:40px}.callout-text{width:66%}.callout-cta{width:33%}.download-icon{display:inline;width:12px;height 12px;margin:0 10px}@media screen and (max-width:767px){.callout-text,.callout-cta{width:100%;text-align:center}}
